@@ -47,7 +47,7 @@ h3 {
 header { 
     display: flex;
     padding: 50px 0px 20px;
-    background-color: rgb(2, 60, 20);
+    background-color: rgb(10, 12, 139);
     background-image: url("../AussieKing-portfolio/assets/Sydney-Harbour.jpg");
     color: var(--white);
     flex-wrap: wrap;
@@ -87,7 +87,7 @@ header nav ul li {
     margin-bottom: 5px;
     padding: 30px;
     flex-wrap: wrap;
-    background-image: url("../Portfolio-Challenge/assets/coding.png");
+    background-image: url("../AussieKing-portfolio/assets/coding.png");
     background-size: cover;
     background-position: center;
 }
@@ -175,7 +175,7 @@ section h3 {
     padding: 30px; 
     margin-bottom: 20px;
     color: var(--white);
-    background-image: url("../Portfolio-Challenge/assets/code-refactoring.png");
+    background-image: url("../AussieKing-portfolio/assets/code-refactoring.png");
     box-shadow: 15px 15px 15px var(--shadow);
 }
 
@@ -203,7 +203,7 @@ section h3 {
     margin-right: 1.5%;
     margin-bottom: 20px;
     color: var(--white);
-    background-image: url("../Portfolio-Challenge/assets/conflict-resolution.png");
+    background-image: url("../AussieKing-portfolio/assets/workinprogress.png");
     box-shadow: 10px 15px 20px var(--shadow);
 }
 
@@ -221,7 +221,7 @@ section h3 {
     margin-left: 1.5%;
     margin-bottom: 20px;
     color: var(--white);
-    background-image: url("../Portfolio-Challenge/assets/watch-this-space.png");
+    background-image: url("../AussieKing-portfolio/assets/watchthisspace.png");
     box-shadow: 10px 15px 20px var(--shadow);
 }
 
@@ -239,7 +239,7 @@ section h3 {
     margin-right: 1.5%;
     margin-bottom: 20px;
     color: var(--white);
-    background-image: url("../Portfolio-Challenge/assets/more-coming-soon.png");
+    background-image: url("../AussieKing-portfolio/assets/morecomingsoon.png");
     box-shadow: 10px 15px 20px var(--shadow);
 }
 
@@ -257,7 +257,7 @@ section h3 {
     margin-left: 1.5%;
     margin-bottom: 20px;
     color: var(--white);
-    background-image: url("../images/run-boddy.jpg");
+    background-image: url("../AussieKing-portfolio/assets/almostthere.png");
     box-shadow: 10px 15px 20px var(--shadow);
 }
 
@@ -302,6 +302,10 @@ footer h5 {
     font-size: 18px;
     border-top: 3px solid var(--work-border);
     padding-top: 15px;
+}
+
+header {
+    color: #c647f1;
 }
 
 header li:hover,
