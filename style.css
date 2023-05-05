@@ -207,7 +207,7 @@ section h3 {
     box-shadow: 10px 15px 20px var(--shadow);
 }
 
-.watch-this-space {
+.FridgeFren-recipe-App {
     display: flex;
     width: 48.5%;
     height: 150px;
@@ -221,7 +221,7 @@ section h3 {
     margin-left: 1.5%;
     margin-bottom: 20px;
     color: var(--white);
-    background-image: url("../AussieKing-portfolio/assets/watchthisspace.png");
+    background-image: url("../AussieKing-portfolio/assets/FridgeFren.png");
     box-shadow: 10px 15px 20px var(--shadow);
 }
 
